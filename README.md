@@ -25,7 +25,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,laravel,php&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,js,html,css,react,redux,vue,laravel,php&perline=9)](https://skillicons.dev)
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 
