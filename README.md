@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Adil Gulzar </h1>
 
-- 🔭 I’m currently working on different JavaScript frameworks like React, Vue.js along with different backend languages including PHP, Python and Node.js. I have used different cloud platforms and have expertise in AWS, Azure, Digital Ocean and others. I have worked with different AI APIs like OpenAI APIs, Gemini API etc on different AI projects. I've used fine-tuning techniques to make models work better for certain tasks and applications. 
+- 🔭 I’m currently working on different JavaScript frameworks like React, Vue.js along with different backend languages including PHP, Python and Node.js. I have used different cloud platforms and have expertise in AWS, Azure, Digital Ocean and others. I have worked with different AI APIs like OpenAI APIs, Gemini API etc on different AI projects. I've used fine-tuning techniques to make models work better for certain tasks and applications.
+  
 - 📫 How to reach me: adilbingulzar@gmail.com
 - 😄 My website: https://builtwith.com/mangocoders.com
 - ⚡ Fun fact: I'm comming to teen
@@ -26,6 +27,7 @@
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=figma,js,html,css,react,redux,vue,laravel,php&perline=9)](https://skillicons.dev)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilbingulzar )](https://github.com/adilbingulzar /github-readme-stats)
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 
