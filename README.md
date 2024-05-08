@@ -29,8 +29,7 @@
 ### Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=figma,js,html,css,tailwind,react,nextjs,redux,vue,nuxtjs,&perline=10)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,nginx,aws,azure&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,mysql,mongodb,nginx,aws,azure,linux&perline=10)](https://skillicons.dev)
 
 ![Adil Gulzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilbingulzar&show_icons=true&theme=dark)
 
