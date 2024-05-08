@@ -32,7 +32,7 @@
 
 ![Adil Gulzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilbingulzar&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilbingulzar&theme=dark)
 
 
 <br>
