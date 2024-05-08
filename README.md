@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Adil Gulzar </h1>
 
+- 🌱 I'm a Senior Full Stack Developer, and Mentor!!
 - 🔭 I’m currently working on different JavaScript frameworks like React, Vue.js along with different backend languages including PHP, Python and Node.js. I have used different cloud platforms and have expertise in AWS, Azure, Digital Ocean and others. I have worked with different AI APIs like OpenAI APIs, Gemini API etc on different AI projects. I've used fine-tuning techniques to make models work better for certain tasks and applications.
   
 - 📫 How to reach me: adilbingulzar@gmail.com
