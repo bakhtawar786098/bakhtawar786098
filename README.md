@@ -26,10 +26,10 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=figma,js,html,css,react,redux,vue,laravel,php&perline=9)](https://skillicons.dev)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilbingulzar )](https://github.com/adilbingulzar /github-readme-stats)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=figma,js,html,css,react,redux,vue,laravel,php&perline=9)](https://skillicons.dev)
+
+![Adil Gulzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilbingulzar&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 
