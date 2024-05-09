@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://www.upwork.com/freelancers/adilbingulzar">
-    <img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Badge"/>
+    <img src="https://img.shields.io/badge/Upwork-dark green?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Badge"/>
   </a>
    <a href="https://www.freelancer.com/u/DeveloperStation?frm=DeveloperStation&sb=t">
     <img src="https://img.shields.io/badge/Freelance-blue?style=for-the-badge&logo=freelance&logoColor=white" alt="Freelance Badge"/>
