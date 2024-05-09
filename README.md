@@ -21,8 +21,12 @@
    <a href="https://www.upwork.com/freelancers/adilbingulzar">
     <img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Badge"/>
   </a>
-   <a href="">
+   <a href="https://www.freelancer.com/u/DeveloperStation?frm=DeveloperStation&sb=t">
     <img src="https://img.shields.io/badge/Freelance-blue?style=for-the-badge&logo=freelance&logoColor=white" alt="Freelance Badge"/>
+  </a>
+   </a>
+   <a href="https://www.fiverr.com/users/adilbingulzar/seller_dashboard">
+    <img src="https://img.shields.io/badge/Fiver-green?style=for-the-badge&logo=fiver&logoColor=white" alt="Fiver Badge"/>
   </a>
 </div>
 
