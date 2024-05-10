@@ -35,8 +35,13 @@
 ![My Skills](https://skillicons.dev/icons?i=figma,js,html,css,tailwind,react,nextjs,redux,vue,nuxtjs,&perline=10)
 ![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,mysql,mongodb,nginx,aws,azure,linux&perline=10)
 
+
+
+
+ ![Adil Gulzar's GitHub public stats](https://github-readme-stats.vercel.app/api?username=adilbingulzar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
+ 
 [![Adil Gulzar's GitHub public stats](https://github-readme-stats.vercel.app/api?username=adilbingulzar&show_icons=true&theme=dark)](https://github.com/adilbingulzar)
-[![Adil Gulzar's GitHub private stats](https://github-readme-stats.vercel.app/api?username=adilbingulzar&count_private=true&show_icons=true&theme=dark)](https://github.com/adilbingulzar)
+[![Adil Gulzar's GitHub private and public stats](https://github-readme-stats.vercel.app/api?username=adilbingulzar&count_private=true&show_icons=true&theme=dark)](https://github.com/adilbingulzar)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilbingulzar&theme=dark)
